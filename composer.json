@@ -1,0 +1,17 @@
+{
+  "name": "brabadan/test",
+  "description": "Test Composer package",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rabadan Bakhmudov",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brabadan\\Test\\": "src"
+    }
+  }
+}
